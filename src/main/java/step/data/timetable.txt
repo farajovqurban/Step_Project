@@ -1,0 +1,21 @@
+1. Kiev -> New York: 16
+2. Kiev -> Los Angeles: 1
+3. Kiev -> Chicago: 22
+4. Kiev -> Houston[3]: 0
+5. Kiev -> Phoenix: 5
+6. Kiev -> Philadelphia[e]: 9
+7. Kiev -> San Antonio: 20
+8. Kiev -> San Diego: 12
+9. Kiev -> Dallas: 8
+10. Kiev -> San Jose: 16
+11. Kiev -> Austin: 16
+12. Kiev -> Jacksonville[f]: 15
+13. Kiev -> Fort Worth: 5
+14. Kiev -> Columbus: 19
+15. Kiev -> San Francisco[g]: 6
+16. Kiev -> Charlotte: 15
+17. Kiev -> Indianapolis[h]: 16
+18. Kiev -> Seattle: 17
+19. Kiev -> Denver[i]: 3
+20. Kiev -> Washington[j]: 22
+21. Kiev -> Bosto: 16
