@@ -37,6 +37,8 @@ public class Core {
       String line = console.readLn();
       Command user_input = parser.parse(line);
       switch (user_input) {
+        case FlightID:
+          timetableController.getFlight(Integer.parseInt(line));
         case TIMETABLE_SHOW:
           timetableController.show();
           break;
